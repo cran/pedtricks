@@ -6,7 +6,7 @@
 \alias{pedtricks-package}
 \title{pedtricks: Visualize, Summarize and Simulate Data from Pedigrees}
 \description{
-Sensitivity and power analysis, for calculating statistics describing pedigrees from wild populations, and for visualizing pedigrees.
+Sensitivity and power analysis, for calculating statistics describing pedigrees from wild populations, and for visualizing pedigrees. This is a reboot of the methods developed by Morrissey and Wilson (2010) \doi{ 10.1111/j.1755-0998.2009.02817.x}.
 }
 \details{
 \itemize{
@@ -33,6 +33,7 @@ Authors:
 \itemize{
   \item Matthew Wolak \email{mew0099@auburn.edu} (\href{https://orcid.org/0000-0002-7962-0071}{ORCID})
   \item Susan Johnston \email{Susan.Johnston@ed.ac.uk} (\href{https://orcid.org/0000-0002-5623-8902}{ORCID})
+  \item Joel Pick \email{joel.l.pick@gmail.com} (\href{https://orcid.org/0000-0002-6295-3742}{ORCID})
   \item Michael Morrissey \email{michael.morrissey@st-andrews.ac.uk} (\href{https://orcid.org/0000-0001-6209-0177}{ORCID})
 }
 
